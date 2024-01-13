@@ -1,0 +1,29 @@
+header,
+#home {
+    background-color: #263238;
+}
+
+#about-product .title button,
+#services button,
+#services .single-service:hover,
+#products .title button,
+#customers::before,
+#customers button,
+#commen-questions button,
+#news-letter .title button,
+#news-letter::before,
+#contact .title button,
+#contact form button,
+footer
+
+{
+    background-color: #263238 !important;
+}
+
+#about-product ul li svg,
+#services .single-service svg,
+#services .single-service svg,
+#customers .customers-content .customer-idea h5,
+#contact svg {
+    color: #263238 !important;
+}
